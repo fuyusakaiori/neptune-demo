@@ -1,4 +1,4 @@
-package com.neptune.demo.juc;
+package com.neptune.demo.java.juc;
 
 import org.apache.commons.lang3.RandomStringUtils;
 

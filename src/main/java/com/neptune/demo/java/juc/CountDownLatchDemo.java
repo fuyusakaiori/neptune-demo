@@ -1,4 +1,4 @@
-package com.neptune.demo.juc;
+package com.neptune.demo.java.juc;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
